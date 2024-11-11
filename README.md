@@ -14,7 +14,7 @@ Auto-Generated Order Summary: The plugin generates an order summary that is sent
 Responsive Design: Works flawlessly on both desktop and mobile devices for a seamless experience.
 Installation
 
-Clone the repository: git clone https://github.com/your-username/woocommerce-order-on-whatsapp-popup.git
+Clone the repository: git clone https://github.com/Digizonemarketing/Order-On-Whatsapp-Popup-for-woocommerce?tab=readme-ov-file
 
 
 Upload the code to your WordPress theme editor functions.php file .
